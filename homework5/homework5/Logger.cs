@@ -10,8 +10,6 @@ namespace homework5
 
         public string LogLevel { get; set; } = "Info";
 
-        private Logger() { }
-
         public static Logger Instance
         {
             get
