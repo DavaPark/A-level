@@ -1,0 +1,9 @@
+/* External CSS */
+#paragraph {
+    color: blue;
+}
+
+/* Internal CSS (Style Tag) */
+.container p {
+    color: green;
+}
